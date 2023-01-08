@@ -1,0 +1,17 @@
+package com.upskill.assignment_1;
+
+public class Assignment_1_2 {
+
+	public static void main(String[] args) {
+		
+		
+      int L = 9;
+      int W = 13;	
+      
+      int perimeter = 2*(L+W);
+      
+   System.out.println(perimeter);
+	}
+
+}
+

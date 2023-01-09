@@ -15,6 +15,8 @@ public abstract class AbstractClass {
 		System.out.println("My car is a Audi");
 		
 	}
+	//git test
+	int = 6;
 	
 
 	}

@@ -10,5 +10,7 @@ public interface Interface {
 	
   int a = 44;
   int b = 23;
+  int c = 11;
+  
   
 }

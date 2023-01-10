@@ -8,5 +8,7 @@ public interface Interface {
 	
 	public abstract String iEngine();
 	
-
+  int a = 44;
+  int b = 23;
+  
 }

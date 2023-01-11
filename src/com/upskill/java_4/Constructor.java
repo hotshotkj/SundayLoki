@@ -23,6 +23,9 @@ public class Constructor {
 	public Constructor(int age){
 		studentAge = age;
 		
+		int a = 2;
+		
+		
 	}
 	
 	
